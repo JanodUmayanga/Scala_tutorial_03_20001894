@@ -149,7 +149,6 @@ object Q1 {
     println(Fahrenheit(100))
     println(Celsius(212))
     
-    //Q9
     
   }
     
